@@ -34,7 +34,7 @@
 这里是我在语音和多模态领域的一些代表性项目，涵盖了从模型训练到端侧部署的全链路实践。
 
 *   **【比赛方案】智能拍照解题助手 (2025.12)**
-    融合多模型（数学解题模型）的智能学习工具，支持拍照上传、多模型智能解题、自动容错切换，提供步骤解析、语音讲解和错题收藏功能。作为 **2025 IKCEST 第10名**方案的实践成果。([GitHub 项目](https://github.com/Shybert-AI/Photo_Problem_Solving_Service))
+    融合多模型（数学解题模型）的智能学习工具，支持拍照上传、多模型智能解题、自动容错切换，提供步骤解析、语音讲解和错题收藏功能。作为 **2025 IKCEST 第10名**方案的实践成果。([GitHub 项目](https://github.com/Shybert-AI/Photo_Problem_Solving_Service)).体验地址：[体验地址](https://app-6t56f7j46o75.appmiaoda.com)  
 
 *   **【比赛方案】视频广告生成推理优化 (2025.09)**
     通过集成**FlashAttention、TeaCache、自定义注意力分块计算**等技巧，将单条视频推理时间从10分钟压缩至1分钟，实现 **10倍加速**，同时保证生成质量 (相似度 > 0.97)。([方案博客](https://blog.csdn.net/weixin_43509698/article/details/151196172))
