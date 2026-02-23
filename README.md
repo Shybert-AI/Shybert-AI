@@ -108,5 +108,5 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shybert-AI&theme=radical" />
   <!-- 如果想看按提交时间统计的语言，可以用下面这个 -->
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shybert-AI&theme=radical" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shybert-AI&theme=radical" />
 </div>
