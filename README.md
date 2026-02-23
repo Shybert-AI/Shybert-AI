@@ -107,6 +107,9 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shybert-AI&theme=radical" />
-  <!-- 如果想看按提交时间统计的语言，可以用下面这个 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shybert-AI&theme=radical" />
+</div>
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shybert-AI&theme=radical" alt="GitHub Activity Graph" />
+  </a>
 </div>
