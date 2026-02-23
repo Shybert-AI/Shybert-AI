@@ -110,6 +110,6 @@
 </div>
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shybert-AI&theme=radical" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shybert-AI&theme=github-light" alt="GitHub Activity Graph" />
   </a>
 </div>
