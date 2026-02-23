@@ -44,12 +44,9 @@
 *   **【WebUI应用】OpenManus-WebUI (2025.04)**
     构建了一个前端页面，通过Flask框架实现了对OpenManus的调用，并支持生成文件的预览，获得了 **226个Star**。([GitHub 项目](https://github.com/Shybert-AI/OpenManus-WebUI))
 
-*   **【语音唤醒与识别】荣耀MagicOS语音唤醒 & 可见可说系统 (2021-2025)**
-    参与研发了荣耀手机的**语音唤醒**和**可见可说**功能。负责AEC回声消除、命令词模型训练、对齐模型PER指标设计、模型C语言及Blot框架部署，并开发了多种数据增强工具，提升模型性能 **5-10%**。
+*   **【声音事件检测】AudioClassificationModelZoo-Pytorch **
+    开源了基于Pytorch的**20+种音频分类模型**，并支持流式测试。([GitHub 项目](https://github.com/Shybert-AI/AudioClassificationModelZoo-Pytorch))  
 
-*   **【声音事件检测】AudioClassificationModelZoo-Pytorch & 地铁事件检测 (2023-2024)**
-    1️⃣ 开源了基于Pytorch的**20+种音频分类模型**，并支持流式测试。([GitHub 项目](https://github.com/Shybert-AI/AudioClassificationModelZoo-Pytorch))  
-    2️⃣ 为地铁场景定制了**TDNN_GRU_SE模型**，对开门、关门、警笛事件的检测准确率达到 **95%**，并完成工程化部署。
 
 ---
 
