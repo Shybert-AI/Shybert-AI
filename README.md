@@ -2,7 +2,6 @@
 
 🏠 base 西安 | 📧 854197093@qq.com | 📱 19992866167
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Shybert-AI&show_icons=true&theme=radical" alt="Shybert's GitHub stats" width="400" />
 
 一名拥有 **6年算法开发经验** 的从业者，专注于**语音前端处理、多模态模型训练与工程化部署**。热爱通过技术博客分享实战心得，并在多项国际AI赛事中积累了大量优化经验。
 
