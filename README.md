@@ -71,11 +71,6 @@
 *   **【WebUI应用】OpenManus-WebUI (2025.04)**
     构建了一个前端页面，通过Flask框架实现了对OpenManus的调用，并支持生成文件的预览，获得了 **226个Star**。([GitHub 项目](https://github.com/Shybert-AI/OpenManus-WebUI))
 
-*   **【代码助手】claude-code-deepseek：双端模型驱动的可运行Claude代码源码 (2025.04)**
-    采用双端模型驱动的 Claude Code 源码实现。([GitHub 项目](https://github.com/Shybert-AI/claude-code-deepseek)) (16 ⭐)
-
-*   **【数字员工】AgentHub - OpenCode AI 数字员工管理中心 (2025.03)**
-    基于 OpenCode 的 AI 数字员工管理平台。([GitHub 项目](https://github.com/Shybert-AI/agent-hub)) (7 ⭐)
 
 *   **【比赛方案】AI_SECS_Agent：体育赛事解说系统 (2024.12)**
     一个集成了**目标追踪、姿态识别、OCR、球门识别**等多模型的多模态Agent系统，能根据足球比赛视频URL，自动生成AI解说。([GitHub 项目](https://github.com/Shybert-AI/2024IKCEST_AI_SECS_Agent))
